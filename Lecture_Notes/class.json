@@ -1,0 +1,21 @@
+{
+  "class": "COE332",
+  "title": "Software Engineering and Design",
+  "subjects": [
+    {
+      "week": 1,
+      "topic": [
+        "linux",
+        "python"
+      ]
+    },
+    {
+      "week": 2,
+      "topic": [
+        "json",
+        "unittest",
+        "git"
+      ]
+    }
+  ]
+}
