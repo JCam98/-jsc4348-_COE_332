@@ -22,3 +22,5 @@ with open('animals.json','r') as f:
 ''' Print the details of one of the animals at random to the console: '''
 
 print(animals['animals'][random.randint(0,20)])
+
+print("Test commit")
