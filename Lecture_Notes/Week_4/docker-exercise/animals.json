@@ -1,0 +1,144 @@
+{
+  "animals": [
+    {
+      "head": "bunny",
+      "body": "zebra-boar",
+      "arms": 2,
+      "legs": 6,
+      "tails": 8
+    },
+    {
+      "head": "bunny",
+      "body": "minnow-dove",
+      "arms": 6,
+      "legs": 12,
+      "tails": 18
+    },
+    {
+      "head": "raven",
+      "body": "eagle-rabbit",
+      "arms": 6,
+      "legs": 6,
+      "tails": 12
+    },
+    {
+      "head": "bunny",
+      "body": "racer-marmot",
+      "arms": 10,
+      "legs": 12,
+      "tails": 22
+    },
+    {
+      "head": "snake",
+      "body": "tomcat-aphid",
+      "arms": 4,
+      "legs": 9,
+      "tails": 13
+    },
+    {
+      "head": "bull",
+      "body": "fowl-beetle",
+      "arms": 8,
+      "legs": 6,
+      "tails": 14
+    },
+    {
+      "head": "lion",
+      "body": "midge-pigeon",
+      "arms": 2,
+      "legs": 9,
+      "tails": 11
+    },
+    {
+      "head": "snake",
+      "body": "snail-imp",
+      "arms": 8,
+      "legs": 9,
+      "tails": 17
+    },
+    {
+      "head": "bunny",
+      "body": "filly-civet",
+      "arms": 6,
+      "legs": 6,
+      "tails": 12
+    },
+    {
+      "head": "lion",
+      "body": "turtle-badger",
+      "arms": 8,
+      "legs": 3,
+      "tails": 11
+    },
+    {
+      "head": "bull",
+      "body": "collie-bee",
+      "arms": 4,
+      "legs": 6,
+      "tails": 10
+    },
+    {
+      "head": "bunny",
+      "body": "fox-pup",
+      "arms": 6,
+      "legs": 3,
+      "tails": 9
+    },
+    {
+      "head": "bull",
+      "body": "bream-troll",
+      "arms": 4,
+      "legs": 12,
+      "tails": 16
+    },
+    {
+      "head": "raven",
+      "body": "tetra-rodent",
+      "arms": 2,
+      "legs": 12,
+      "tails": 14
+    },
+    {
+      "head": "bunny",
+      "body": "lynx-crab",
+      "arms": 6,
+      "legs": 9,
+      "tails": 15
+    },
+    {
+      "head": "bull",
+      "body": "cat-elf",
+      "arms": 8,
+      "legs": 9,
+      "tails": 17
+    },
+    {
+      "head": "snake",
+      "body": "cattle-coyote",
+      "arms": 10,
+      "legs": 6,
+      "tails": 16
+    },
+    {
+      "head": "raven",
+      "body": "tetra-jennet",
+      "arms": 8,
+      "legs": 6,
+      "tails": 14
+    },
+    {
+      "head": "lion",
+      "body": "bee-turtle",
+      "arms": 2,
+      "legs": 6,
+      "tails": 8
+    },
+    {
+      "head": "bull",
+      "body": "bull-trout",
+      "arms": 2,
+      "legs": 12,
+      "tails": 14
+    }
+  ]
+}
