@@ -1,0 +1,144 @@
+{
+  "animals": [
+    {
+      "head": "bunny",
+      "body": "lizard-puma",
+      "arms": 4,
+      "legs": 9,
+      "tails": 13
+    },
+    {
+      "head": "lion",
+      "body": "jaguar-alien",
+      "arms": 8,
+      "legs": 12,
+      "tails": 20
+    },
+    {
+      "head": "snake",
+      "body": "serval-iguana",
+      "arms": 4,
+      "legs": 6,
+      "tails": 10
+    },
+    {
+      "head": "snake",
+      "body": "hermit-tapir",
+      "arms": 4,
+      "legs": 6,
+      "tails": 10
+    },
+    {
+      "head": "bull",
+      "body": "raptor-shrimp",
+      "arms": 2,
+      "legs": 6,
+      "tails": 8
+    },
+    {
+      "head": "lion",
+      "body": "shiner-goblin",
+      "arms": 4,
+      "legs": 3,
+      "tails": 7
+    },
+    {
+      "head": "lion",
+      "body": "pigeon-boa",
+      "arms": 2,
+      "legs": 12,
+      "tails": 14
+    },
+    {
+      "head": "raven",
+      "body": "troll-guinea",
+      "arms": 2,
+      "legs": 3,
+      "tails": 5
+    },
+    {
+      "head": "raven",
+      "body": "boxer-caiman",
+      "arms": 6,
+      "legs": 6,
+      "tails": 12
+    },
+    {
+      "head": "snake",
+      "body": "osprey-lemur",
+      "arms": 10,
+      "legs": 12,
+      "tails": 22
+    },
+    {
+      "head": "bull",
+      "body": "macaw-monkey",
+      "arms": 10,
+      "legs": 6,
+      "tails": 16
+    },
+    {
+      "head": "raven",
+      "body": "robin-mammal",
+      "arms": 2,
+      "legs": 12,
+      "tails": 14
+    },
+    {
+      "head": "lion",
+      "body": "oriole-bream",
+      "arms": 10,
+      "legs": 9,
+      "tails": 19
+    },
+    {
+      "head": "bunny",
+      "body": "rhino-swine",
+      "arms": 2,
+      "legs": 9,
+      "tails": 11
+    },
+    {
+      "head": "snake",
+      "body": "serval-grub",
+      "arms": 4,
+      "legs": 6,
+      "tails": 10
+    },
+    {
+      "head": "bull",
+      "body": "mutt-wombat",
+      "arms": 6,
+      "legs": 6,
+      "tails": 12
+    },
+    {
+      "head": "lion",
+      "body": "teal-bengal",
+      "arms": 10,
+      "legs": 9,
+      "tails": 19
+    },
+    {
+      "head": "lion",
+      "body": "midge-marlin",
+      "arms": 4,
+      "legs": 6,
+      "tails": 10
+    },
+    {
+      "head": "lion",
+      "body": "owl-shrimp",
+      "arms": 10,
+      "legs": 9,
+      "tails": 19
+    },
+    {
+      "head": "bunny",
+      "body": "stag-dove",
+      "arms": 6,
+      "legs": 12,
+      "tails": 18
+    }
+  ]
+}
