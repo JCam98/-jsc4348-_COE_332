@@ -116,7 +116,6 @@ The unit tests in the script "test_read_animals.py" can be evaluated by
 running "python3 test_read_animals.py" in the working directory
 containing the three python scripts. 
 
-Note: The script "test_read_animals.py" is 
-not containerized. Make sure that the "python3" interpreter and its dependencies
+Note: Make sure that the "python3" interpreter and its dependencies
 have been installed on the local machine. 
 
