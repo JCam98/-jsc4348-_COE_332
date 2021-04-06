@@ -1,0 +1,144 @@
+{
+  "animals": [
+    {
+      "head": "bunny",
+      "body": "horse-locust",
+      "arms": 6,
+      "legs": 12,
+      "tails": 18
+    },
+    {
+      "head": "bunny",
+      "body": "muskox-tapir",
+      "arms": 6,
+      "legs": 9,
+      "tails": 15
+    },
+    {
+      "head": "snake",
+      "body": "crane-egret",
+      "arms": 4,
+      "legs": 12,
+      "tails": 16
+    },
+    {
+      "head": "lion",
+      "body": "gar-grub",
+      "arms": 8,
+      "legs": 12,
+      "tails": 20
+    },
+    {
+      "head": "bull",
+      "body": "crab-quail",
+      "arms": 6,
+      "legs": 9,
+      "tails": 15
+    },
+    {
+      "head": "lion",
+      "body": "gannet-snipe",
+      "arms": 4,
+      "legs": 6,
+      "tails": 10
+    },
+    {
+      "head": "bunny",
+      "body": "falcon-drum",
+      "arms": 6,
+      "legs": 6,
+      "tails": 12
+    },
+    {
+      "head": "snake",
+      "body": "boxer-tapir",
+      "arms": 6,
+      "legs": 6,
+      "tails": 12
+    },
+    {
+      "head": "snake",
+      "body": "burro-kitten",
+      "arms": 8,
+      "legs": 9,
+      "tails": 17
+    },
+    {
+      "head": "bull",
+      "body": "imp-frog",
+      "arms": 8,
+      "legs": 9,
+      "tails": 17
+    },
+    {
+      "head": "bull",
+      "body": "ocelot-rodent",
+      "arms": 2,
+      "legs": 9,
+      "tails": 11
+    },
+    {
+      "head": "bunny",
+      "body": "shrimp-flea",
+      "arms": 10,
+      "legs": 3,
+      "tails": 13
+    },
+    {
+      "head": "lion",
+      "body": "lemur-rodent",
+      "arms": 4,
+      "legs": 6,
+      "tails": 10
+    },
+    {
+      "head": "raven",
+      "body": "goat-serval",
+      "arms": 4,
+      "legs": 9,
+      "tails": 13
+    },
+    {
+      "head": "snake",
+      "body": "frog-trout",
+      "arms": 2,
+      "legs": 12,
+      "tails": 14
+    },
+    {
+      "head": "bull",
+      "body": "joey-koala",
+      "arms": 4,
+      "legs": 12,
+      "tails": 16
+    },
+    {
+      "head": "lion",
+      "body": "raptor-tarpon",
+      "arms": 4,
+      "legs": 12,
+      "tails": 16
+    },
+    {
+      "head": "bunny",
+      "body": "dassie-troll",
+      "arms": 10,
+      "legs": 9,
+      "tails": 19
+    },
+    {
+      "head": "lion",
+      "body": "duck-tomcat",
+      "arms": 8,
+      "legs": 12,
+      "tails": 20
+    },
+    {
+      "head": "bunny",
+      "body": "orca-dodo",
+      "arms": 2,
+      "legs": 6,
+      "tails": 8
+    }
+  ]
+}
