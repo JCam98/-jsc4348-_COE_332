@@ -1,0 +1,30 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: jcam98-test-redis
+  labels:
+    app: jcam98-test-redis
+    username: jcam98
+    env: test
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: jcam98-test-redis
+  template:
+    metadata:
+      labels:
+        username: jcam98
+        env: test
+        app: jcam98-test-redis
+    spec:
+      containers:
+        - name: jcam98-redis-midterm
+          image: redis:5.0.0
+          volumeMounts:
+          - name: jcam98-test-pvc
+            mountPath: "/data"
+      volumes:
+      - name: jcam98-test-pvc
+        persistentVolumeClaim:
+          claimName: jcam98-test-pvc

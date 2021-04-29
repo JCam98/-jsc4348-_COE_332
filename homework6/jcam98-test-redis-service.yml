@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: jcam98-test-redis-service
+spec:
+  type: ClusterIP
+  selector:
+    app: jcam98-test-redis
+  ports:
+  - name: jcam98-redis-midterm
+    port: 6379
+    targetPort: 6379
