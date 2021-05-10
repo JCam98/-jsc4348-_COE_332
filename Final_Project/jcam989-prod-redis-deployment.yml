@@ -1,0 +1,30 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: jcam989-prod-redis
+  labels:
+    app: jcam989-prod-redis
+    username: jcam989
+    env: prod
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: jcam989-prod-redis
+  template:
+    metadata:
+      labels:
+        username: jcam989
+        env: prod
+        app: jcam989-prod-redis
+    spec:
+      containers:
+        - name: jcam989-prod-redis-project
+          image: redis:5.0.0
+          volumeMounts:
+          - name: jcam989-prod-pvc
+            mountPath: "/data"
+      volumes:
+      - name: jcam989-prod-pvc
+        persistentVolumeClaim:
+          claimName: jcam989-prod-pvc

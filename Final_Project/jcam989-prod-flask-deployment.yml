@@ -1,0 +1,35 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: jcam989-prod-flask
+  labels:
+    app: jcam989-prod-flask
+    username: jcam989
+    env: prod
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: jcam989-prod-flask
+  template:
+    metadata:
+      labels:
+        username: jcam989
+        env: prod
+        app: jcam989-prod-flask
+    spec:
+      containers:
+        - name: jcam989-prod-flask
+          imagePullPolicy: Always
+          image: jcam989/final-project-prod:latest
+          # command: ["sleep", "99999"]
+          command: ["python", "api.py"]
+          env:
+            - name: "Flask_App"
+              value: api.py
+            - name: REDIS_IP
+              value: 10.104.54.244 
+          ports: 
+            - name: http
+              containerPort: 5000
+              
